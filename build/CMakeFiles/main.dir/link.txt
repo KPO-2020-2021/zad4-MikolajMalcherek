@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/main.dir/app/main.cpp.o CMakeFiles/program.dir/src/example.cpp.o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o CMakeFiles/program.dir/src/Macierz3x3.cpp.o CMakeFiles/program.dir/src/prostopadloscian.cpp.o CMakeFiles/program.dir/src/Scena.cpp.o  -o main 

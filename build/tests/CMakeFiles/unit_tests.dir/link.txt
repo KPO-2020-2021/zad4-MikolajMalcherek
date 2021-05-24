@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/unit_tests.dir/main.cpp.o CMakeFiles/unit_tests.dir/vector_test.cpp.o ../CMakeFiles/program.dir/src/example.cpp.o ../CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o ../CMakeFiles/program.dir/src/Macierz3x3.cpp.o ../CMakeFiles/program.dir/src/prostopadloscian.cpp.o ../CMakeFiles/program.dir/src/Scena.cpp.o  -o ../unit_tests 

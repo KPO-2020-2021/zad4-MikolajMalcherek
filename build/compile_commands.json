@@ -1,0 +1,42 @@
+[
+{
+  "directory": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/include -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/main.dir/app/main.cpp.o -c /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/app/main.cpp",
+  "file": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/app/main.cpp"
+},
+{
+  "directory": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/include -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/example.cpp.o -c /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/example.cpp",
+  "file": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/example.cpp"
+},
+{
+  "directory": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/include -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/lacze_do_gnuplota.cpp.o -c /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/lacze_do_gnuplota.cpp",
+  "file": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/lacze_do_gnuplota.cpp"
+},
+{
+  "directory": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/include -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Macierz3x3.cpp.o -c /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/Macierz3x3.cpp",
+  "file": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/Macierz3x3.cpp"
+},
+{
+  "directory": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/include -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/prostopadloscian.cpp.o -c /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/prostopadloscian.cpp",
+  "file": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/prostopadloscian.cpp"
+},
+{
+  "directory": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/include -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/program.dir/src/Scena.cpp.o -c /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/Scena.cpp",
+  "file": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/src/Scena.cpp"
+},
+{
+  "directory": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/include -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/main.cpp.o -c /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/tests/main.cpp",
+  "file": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/tests/main.cpp"
+},
+{
+  "directory": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build/tests",
+  "command": "/usr/bin/c++  -DENABLE_DOCTEST_IN_LIBRARY -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/build -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/include -I/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/external/doctest/doctest  -g   -Wall -Wextra -Wpedantic -Wno-switch-enum -Werror -std=c++17 -o CMakeFiles/unit_tests.dir/vector_test.cpp.o -c /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/tests/vector_test.cpp",
+  "file": "/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/tests/vector_test.cpp"
+}
+]
