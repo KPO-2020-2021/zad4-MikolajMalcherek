@@ -160,10 +160,6 @@ sys/time.h
 unistd.h
 -
 
-/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/tests/main.cpp
-../tests/doctest/doctest.h
-/home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/tests/doctest/doctest.h
-
 /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/tests/vector_test.cpp
 ../tests/doctest/doctest.h
 /home/malcher9/programowanie_obiektowe/zad4-MikolajMalcherek-master/tests/doctest/doctest.h
